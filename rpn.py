@@ -7,7 +7,7 @@ operators = {
     '-': operator.sub,
     '*': operator.mul,
     '/': operator.truediv,
-    '^': operator.pow,
+    # '^': operator.pow,
 }
 def calculate(myarg):
     stack = list()
